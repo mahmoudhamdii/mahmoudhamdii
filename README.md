@@ -1,4 +1,4 @@
-<h1 align="center"> Mahmoud Hamdi 🧑🏼‍💻</h1>
+<h1 align="center"> Mahmoud Hamdi  </h1>
 <h3 align="center">Software Engineer in IOS </h3>
 
 - 📫 How to reach me **m.hamdi201833@gmail.com**
